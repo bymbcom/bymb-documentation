@@ -1,175 +1,103 @@
 # Data Privacy Policy - Policy Documentation
 
 ## Document Information
-- **Document ID:** Policy_Privacy_DataPrivacy_v1.0_20250422
-- **Author:** BY MB Legal Team
+- **Document ID:** Policy_DataPrivacy_v1.0_20250422
+- **Author:** BY MB Compliance Team
 - **Last Updated:** April 22, 2025
 - **Version:** 1.0
 - **Language:** English
 - **Review Date:** October 22, 2025
-- **Keywords:** data privacy, GDPR, personal information, data protection, security
+- **Keywords:** data privacy, GDPR, personal information, data protection, compliance
 
 ## Policy Overview
 [AI-PRIORITY]
-- **Purpose:** To establish guidelines for the collection, use, storage, and protection of personal and business data in accordance with applicable laws and regulations
-- **Scope:** Applies to all employees, contractors, AI systems, and third parties who handle data on behalf of BY MB Consultancy
-- **Applicability:** All data processing activities involving personal or sensitive business information
+- Purpose: Establish guidelines for handling personal and business data
+- Scope: All data collected, processed, and stored by BY MB Consultancy
+- Applicability: All employees, contractors, and AI systems
 
 ## Policy Statement
 [AI-CAUTION]
-BY MB Consultancy is committed to protecting the privacy and security of all personal and business data entrusted to us. We collect, process, and store data in accordance with:
-- Bahrain's Personal Data Protection Law (PDPL)
-- General Data Protection Regulation (GDPR) for EU clients
-- International data protection standards and best practices
+BY MB Consultancy is committed to protecting the privacy and security of all personal and business data entrusted to us. This policy outlines our data privacy practices and ensures compliance with applicable laws including Bahrain's Personal Data Protection Law (PDPL) and international standards.
 
 ## Key Points
 [AI-PRIORITY]
-1. Data is collected only for specific, legitimate business purposes
-2. Personal information is processed fairly, lawfully, and transparently
-3. Data is kept accurate, up-to-date, and stored securely
-4. Information is retained only as long as necessary
-5. Individuals have rights regarding their personal data
-6. AI systems must not expose sensitive personal information
+1. Data collection must be lawful, fair, and transparent
+2. Personal data must be used only for specified, explicit purposes
+3. Data minimization principle must be followed
+4. Data accuracy must be maintained
+5. Data must be kept secure at all times
 
-## Data Collection and Processing
+## Procedures
 [AI-EXAMPLE]
-### What We Collect
-1. **Client Information**
-   - Name, contact details, company information
-   - Project requirements and preferences
-   - Communication history
-   - Payment information
+1. **Data Collection**
+   - Obtain explicit consent before collecting personal data
+   - Clearly state the purpose of data collection
+   - Collect only necessary information
+   - Document all data collection activities
 
-2. **Employee Data**
-   - Personal details and identification
-   - Employment records
-   - Performance information
-   - Training records
+2. **Data Processing**
+   - Process data only for stated purposes
+   - Maintain processing records
+   - Ensure data accuracy
+   - Respect data subject rights
 
-3. **System Data**
-   - Usage logs and analytics
-   - Security monitoring data
-   - Performance metrics
-   - Error reports
+3. **Data Storage**
+   - Implement appropriate security measures
+   - Encrypt sensitive data
+   - Regular backup and recovery testing
+   - Secure disposal of outdated data
 
-### How We Process Data
-1. **With Consent:** For marketing and optional services
-2. **For Contract Performance:** To deliver requested services
-3. **Legal Compliance:** As required by law
-4. **Legitimate Interest:** For business operations and improvements
+4. **Data Sharing**
+   - Share data only with authorized parties
+   - Maintain data processing agreements
+   - Document all data transfers
+   - Ensure third-party compliance
 
-## Data Subject Rights
-[AI-PRIORITY]
-Individuals have the right to:
-1. Access their personal data
-2. Rectify inaccurate information
-3. Request data deletion (right to be forgotten)
-4. Restrict processing
-5. Data portability
-6. Object to processing
-7. Withdraw consent
-
-## AI System Guidelines
+## AI-Specific Guidelines
 [AI-CAUTION]
-1. **Data Access Levels**
-   - Level 1: Public information only
-   - Level 2: General business information
-   - Level 3: Restricted - no AI access
-
-2. **Prohibited Actions**
-   - Displaying personal contact information
-   - Sharing sensitive client data
-   - Processing payment information
-   - Revealing employee personal details
-
-3. **Required Actions**
-   - Anonymize personal data when possible
-   - Direct privacy requests to human handlers
-   - Apply data minimization principles
-   - Flag potential privacy violations
-
-## Data Security Measures
-[AI-CAUTION]
-1. **Technical Controls**
-   - Encryption for data at rest and in transit
-   - Access controls and authentication
-   - Regular security audits
-   - Intrusion detection systems
-
-2. **Organizational Controls**
-   - Staff training on data protection
-   - Confidentiality agreements
-   - Incident response procedures
-   - Regular policy reviews
-
-3. **Physical Controls**
-   - Secure facility access
-   - Locked storage for physical records
-   - Clean desk policy
-   - Visitor management
-
-## Data Breach Response
-[AI-ESCALATE]
-1. **Immediate Actions**
-   - Contain the breach
-   - Assess the scope and impact
-   - Notify security team
-
-2. **Notification Process**
-   - Internal escalation within 24 hours
-   - Regulatory notification within 72 hours (if required)
-   - Affected individual notification
-
-3. **Post-Incident**
-   - Root cause analysis
-   - Remediation measures
-   - Policy and procedure updates
-
-## Third-Party Data Sharing
-[AI-CAUTION]
-1. **Approved Vendors Only**
-   - Vetted for security practices
-   - Contractual data protection obligations
-   - Limited to necessary data only
-
-2. **International Transfers**
-   - Adequate protection measures
-   - Standard contractual clauses
-   - Transfer impact assessments
+1. AI systems must not expose personal data in responses
+2. AI must redirect sensitive data requests to human agents
+3. AI must maintain data anonymity when providing examples
+4. AI must not store personal information from conversations
 
 ## Compliance Requirements
 [AI-CAUTION]
-1. **Internal Requirements**
-   - Regular privacy impact assessments
-   - Data protection officer oversight
-   - Annual compliance audits
+- Bahrain Personal Data Protection Law (PDPL)
+- GDPR for EU customers
+- Industry-specific regulations
+- Client confidentiality agreements
 
-2. **External Regulations**
-   - Bahrain PDPL compliance
-   - GDPR requirements for EU clients
-   - Industry-specific regulations
-
-3. **Penalties for Non-Compliance**
-   - Disciplinary action
-   - Legal consequences
-   - Regulatory fines
+## Data Subject Rights
+[AI-PRIORITY]
+1. Right to access personal data
+2. Right to rectification
+3. Right to erasure ("right to be forgotten")
+4. Right to restrict processing
+5. Right to data portability
+6. Right to object to processing
 
 ## Exceptions
 [AI-ESCALATE]
-Exceptions to this policy require:
-1. Written request with justification
-2. Legal department review
-3. Executive approval
-4. Documentation of exception
+- Legal obligations requiring data retention
+- Public interest or vital interests
+- Freedom of expression and information
+- Scientific/historical research purposes
+
+## Data Breach Protocol
+[AI-ESCALATE]
+1. Immediate containment and assessment
+2. Notify Data Protection Officer within 1 hour
+3. Document incident details
+4. Notify affected individuals within 72 hours
+5. Report to authorities as required
 
 ## Related Documents
 - Information Security Policy
 - Data Retention Policy
 - Incident Response Plan
-- Employee Privacy Notice
-- Client Privacy Notice
+- Employee Data Handling Guidelines
 
 ## Version History
-| Version | Date       | Changes                  | Author          |
-|---------|------------|--------------------------|-----------------|
-| 1.0     | 2025-04-22 | Initial policy creation  | BY MB Legal Team |
+| Version | Date       | Changes                 | Author              |
+|---------|------------|-------------------------|---------------------|
+| 1.0     | 2025-04-22 | Initial policy creation | BY MB Compliance Team |
