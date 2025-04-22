@@ -7,166 +7,182 @@
 - **Version:** 1.0
 - **Language:** English
 - **Review Date:** July 22, 2025
-- **Keywords:** FAQ, general questions, services, company information, support
+- **Keywords:** FAQ, general questions, services, support, company, business
 
 ## About BY MB Consultancy
 [AI-PRIORITY]
 
 ### Q: What is BY MB Consultancy?
-**A:** BY MB Consultancy is a technology solutions provider based in Manama, Bahrain. We specialize in smart home automation, advanced security systems, data analytics, business intelligence, and digital transformation consulting. Our mission is to bridge the gap between complex technology and practical applications, creating tailored solutions for residential and commercial clients throughout Bahrain.
+**A:** BY MB Consultancy is a technology solutions provider based in Manama, Bahrain. We specialize in smart home automation, security systems, business intelligence, analytics, and digital transformation services for both residential and commercial clients.
 
 ### Q: When was BY MB Consultancy established?
 **A:** BY MB Consultancy was established in March 2023 as a sole proprietorship led by founder Bader Hassan.
 
-### Q: What areas of Bahrain do you serve?
-**A:** We provide services throughout Bahrain, including Manama, Riffa, Muharraq, Hamad Town, Amwaj Islands, Saar, Budaiya, Seef District, and all surrounding areas.
+### Q: Where is BY MB Consultancy located?
+**A:** We are based in Manama, Bahrain, and serve clients throughout the Kingdom, including Riffa, Muharraq, Hamad Town, Amwaj Islands, Saar, Budaiya, and Seef District.
 
-### Q: What makes BY MB Consultancy different from other technology providers?
-**A:** Our key differentiators include:
-- Local expertise with deep understanding of Bahrain's specific technology needs
-- Tailored end-to-end solutions that integrate seamlessly into clients' environments
-- Comprehensive technical expertise across multiple platforms
-- Data analytics excellence providing powerful insights
-- 24/7 AI-powered support model
-- Customer-focused approach prioritizing client needs
+### Q: What areas does BY MB Consultancy serve?
+**A:** We provide services throughout the Kingdom of Bahrain, including all major cities and surrounding areas.
 
-## Services
+## Services Overview
 [AI-PRIORITY]
 
-### Q: What services does BY MB Consultancy offer?
-**A:** We offer three main service categories:
-1. **Smart Solutions:** Home and office automation, security systems, CCTV, and integrated smart ecosystems
-2. **Analytics & Business Intelligence:** Custom analytics, Power BI implementation, database solutions, and data visualization
-3. **Networking & Digital Transformation:** Enterprise networking, digital transformation consulting, cloud solutions, and process automation
+### Q: What main services does BY MB Consultancy offer?
+**A:** We offer three core service categories:
+1. Smart Solutions: Home and office automation, security systems, and integrated smart ecosystems
+2. Analytics & Business Intelligence: Custom data analysis, Power BI implementation, SQL solutions, and predictive analytics
+3. Networking & Digital Transformation: Enterprise networking, cloud migration, and business process automation
 
-### Q: Do you offer consultation services?
-**A:** Yes, we offer a free 2-hour initial consultation to understand your needs and challenges. During this session, we assess your current technology setup, discuss your goals, and identify potential solutions.
+### Q: Do you offer installation services?
+**A:** Yes, we provide professional installation services for all our smart home, security, and networking solutions. Our certified technicians handle everything from initial setup to final configuration and user training.
 
-### Q: How does your service implementation process work?
-**A:** Our service approach follows these steps:
-1. Initial Consultation: Understanding your needs and challenges
-2. Solution Design: Creating a tailored plan based on requirements
-3. Implementation: Expert installation and integration
-4. Training & Handover: Ensuring you're comfortable with your new systems
-5. Ongoing Support: Continued assistance for optimal performance
+### Q: Can you customize solutions for specific needs?
+**A:** Absolutely! Customization is at the heart of our approach. We begin with a free 2-hour consultation to understand your unique requirements and then design tailored solutions specifically for your home or business.
 
-### Q: Can your services be customized for specific needs?
-**A:** Absolutely. All our solutions are customized based on your specific requirements, environment, and budget. We don't believe in one-size-fits-all approaches and work closely with you to design solutions that address your unique challenges.
+### Q: Do you work with both residential and commercial clients?
+**A:** Yes, we serve both residential clients (homeowners and property developers) and commercial clients (small to medium businesses and IT-dependent organizations) with customized solutions for each sector.
 
-## Products & Online Store
+## Appointments and Consultations
 [AI-EXAMPLE]
 
-### Q: What products do you sell?
-**A:** Our online store offers carefully curated technology products in three main categories:
-1. **CCTV Products:** IP cameras, NVRs, surveillance kits, and accessories
-2. **Networking Products:** Wi-Fi mesh systems, routers, switches, and cabling components
-3. **Smart Home Devices:** Smart switches, sensors, controllers, and compatible hardware
+### Q: How do I schedule a consultation?
+**A:** You can schedule a consultation through multiple channels:
+- Call us at +973-66300033
+- Email us at info@by-mb.com
+- Use the scheduling form on our website
+- Contact us through any of our social media platforms
+Our AI support team is available 24/7 to assist with scheduling.
 
-### Q: Do you provide warranty for products?
-**A:** Yes, all products come with manufacturer warranty. Additionally, products installed by our team include our installation warranty and support.
+### Q: Is there a cost for the initial consultation?
+**A:** No, we offer a free 2-hour initial consultation to understand your needs and provide preliminary recommendations. This allows us to better understand your requirements before developing a custom proposal.
 
-### Q: Can I buy products without installation services?
-**A:** Yes, you can purchase products through our online store without installation services. However, we recommend professional installation for optimal performance and integration.
-
-### Q: Do you offer product delivery?
-**A:** Yes, we offer delivery throughout Bahrain for products purchased from our online store or as part of our service packages.
-
-## Working Hours & Support
-[AI-PRIORITY]
-
-### Q: What are your business hours?
-**A:** Our office hours are Sunday through Thursday, 9:00 AM - 5:00 PM (Arabia Standard Time, GMT+3). We are closed on Fridays, Saturdays, and public holidays.
-
-### Q: Do you offer after-hours support?
-**A:** Yes, we provide 24/7 support through our AI-powered support system. This includes assistance via phone, email, and live chat for general inquiries, technical troubleshooting, and emergency response initiation.
-
-### Q: How quickly can you respond to support requests?
-**A:** Our response times vary by channel and issue type:
-- During office hours: Within 2 hours
-- Outside office hours (AI support): Immediate
-- Emergency issues: Within 1 hour
-- Email inquiries: Within 24 hours
-
-### Q: How do I contact technical support?
-**A:** You can reach our support team through:
-- Phone: +973-66300033
-- Email: support@by-mb.com
-- Live chat on our website
-- Emergency cases: emergency@by-mb.com
-
-## Pricing & Payment
-[AI-CAUTION]
-
-### Q: How is service pricing determined?
-**A:** Our pricing is project-based and varies depending on scope, complexity, and specific requirements. We provide detailed, transparent quotes after the initial consultation once we understand your needs.
-
-### Q: Do you offer service packages?
-**A:** Yes, we offer structured service packages for different needs and budgets:
-- Smart Solutions packages for homes and offices
-- Business Analytics packages for data-driven organizations
-- Network Infrastructure packages for connectivity needs
-- Digital Transformation packages for business modernization
-
-### Q: What payment methods do you accept?
-**A:** We accept multiple payment methods including cash, checks, Benefit (local payment system), Visa, MasterCard, online payments, and direct bank transfers.
-
-### Q: Do you offer maintenance contracts?
-**A:** Yes, we provide ongoing maintenance plans to ensure your systems remain in optimal condition. These can be customized based on your specific needs and system complexity.
-
-## Project Implementation
-[AI-EXAMPLE]
-
-### Q: How long does a typical project take to implement?
-**A:** Implementation timelines vary based on project scope and complexity:
-- Basic smart home or security systems: 1-3 days
+### Q: How long does a typical project take?
+**A:** Project timelines vary based on scope and complexity:
+- Basic smart home installations: 1-3 days
 - Comprehensive home automation: 1-2 weeks
 - Business analytics implementation: 2-4 weeks
 - Network infrastructure projects: 1-3 weeks
-- Full digital transformation initiatives: 2-6 months
+- Digital transformation initiatives: 2-6 months
+We provide detailed timelines during the proposal phase.
 
-### Q: Can I expand my system in the future?
-**A:** Yes, all our solutions are designed with scalability in mind. You can start with basic functionality and expand your system over time as your needs evolve or budget allows.
+### Q: Do you offer emergency services?
+**A:** Yes, we offer emergency services for critical issues. You can reach our emergency support line 24/7 at +973-66300033 (press 0 for emergency) or email emergency@by-mb.com.
 
-### Q: Do you provide training on how to use the systems?
-**A:** Yes, comprehensive training is included with all implementations. We ensure you and your team understand how to operate, maintain, and get the most from your new systems.
+## Business Operations
+[AI-PRIORITY]
 
-### Q: What happens if there are issues after installation?
-**A:** We provide ongoing support after installation. Any issues that arise during the warranty period are addressed promptly at no additional cost. We also offer extended support plans for continued assistance.
+### Q: What are your business hours?
+**A:** Our office is open Sunday through Thursday, 9:00 AM to 5:00 PM (Arabia Standard Time, GMT+3). We are closed on Fridays, Saturdays, and public holidays. However, our AI support team is available 24/7 for inquiries and assistance.
 
-## Technical Questions
+### Q: Do you offer remote services?
+**A:** Yes, many of our services can be delivered remotely, including:
+- Analytics and business intelligence solutions
+- System monitoring and maintenance
+- Software configuration
+- Technical support
+- Digital transformation consulting
+Some services, like physical installations, require on-site visits.
+
+### Q: What languages do you support?
+**A:** We provide services in both English and Arabic to accommodate all clients throughout Bahrain.
+
+### Q: Do you offer ongoing support after installation?
+**A:** Yes, we offer various support options:
+- Initial post-installation support period (typically 30-60 days)
+- Extended support and maintenance plans
+- 24/7 AI-powered assistance
+- Regular system health checks
+- Upgrades and enhancements as needed
+
+## Products and Pricing
 [AI-CAUTION]
 
-### Q: What smart home platforms do you support?
-**A:** We primarily use Home Assistant as our smart home platform due to its flexibility, compatibility with diverse devices, and local control capabilities. We also support integration with popular voice assistants like Google Assistant, Amazon Alexa, and Apple HomeKit.
+### Q: Do you sell products directly?
+**A:** Yes, we offer a curated selection of technology products through our online store, including CCTV systems, networking equipment, and smart home devices. All products are carefully selected for quality and compatibility.
 
-### Q: Can my existing devices be integrated into a new system?
-**A:** In most cases, yes. We conduct a thorough assessment of your existing devices and integrate compatible ones into your new system. For incompatible devices, we recommend suitable replacements.
+### Q: How is pricing determined for services?
+**A:** Our pricing is project-based and depends on several factors:
+- Scope and complexity of the project
+- Hardware requirements
+- Implementation time
+- Customization needs
+- Ongoing support requirements
+We provide detailed, transparent quotes after the initial consultation.
 
-### Q: How secure are your smart home and security systems?
-**A:** Security is a top priority. We implement multiple layers of protection including encrypted communications, secure authentication, regular updates, and network segmentation. Our security systems operate on isolated networks when possible for enhanced protection.
+### Q: Do you offer package deals?
+**A:** Yes, we offer several service packages designed for different needs and budgets:
+- Essential Smart Package: For apartments and small offices
+- Professional Smart Package: For villas and larger premises
+- Business Analytics Starter: For SMEs beginning their data journey
+- Advanced Analytics Suite: For enterprises needing comprehensive insights
+- Network Infrastructure Package: For basic networking needs
+- Complete Digital Transformation Package: For comprehensive modernization
 
-### Q: What analytics platforms do you work with?
-**A:** We primarily work with Microsoft Power BI for business intelligence and data visualization. We also utilize SQL databases, Python for custom analytics, and various ETL tools for data integration.
+### Q: Are there any hidden fees?
+**A:** No, we practice transparent pricing. All costs are clearly outlined in our proposals before any work begins. If scope changes occur during implementation, we discuss and document any cost adjustments before proceeding.
 
-## Escalation Points
+## Technology and Integration
+[AI-EXAMPLE]
+
+### Q: What smart home platforms do you work with?
+**A:** We primarily work with Home Assistant as our core automation platform, but also support integration with popular voice assistants and ecosystems like:
+- Google Assistant
+- Amazon Alexa
+- Apple HomeKit
+- Matter-compatible devices
+
+### Q: Can you integrate with my existing systems?
+**A:** Yes, in most cases we can integrate with your existing systems. Our solutions are designed to be flexible and compatible with a wide range of technologies. During the consultation, we assess your current setup and recommend the best integration approach.
+
+### Q: What analytics platforms do you use?
+**A:** We primarily work with Microsoft Power BI for business intelligence and data visualization, along with SQL databases, Python for custom analytics, and various ETL tools. We can also work with other platforms based on client requirements.
+
+### Q: Do your systems require internet connectivity?
+**A:** While many smart features benefit from internet connectivity, we design systems that maintain core functionality even during internet outages. Security systems, for example, continue recording locally even if the internet connection is lost.
+
+## Technical Support
 [AI-ESCALATE]
-- Technical questions beyond basic troubleshooting
-- Specific pricing inquiries
-- Custom solution requests
-- Services not listed in our standard offerings
-- Legal or compliance questions
-- Enterprise-level or government inquiries
-- Complaints or disputes
+
+### Q: What if I encounter issues with my system?
+**A:** We provide multiple support channels:
+1. 24/7 AI-powered support via phone, email, and chat
+2. Remote troubleshooting and diagnostics
+3. On-site service when required
+4. Comprehensive documentation and user guides
+5. Video tutorials and training resources
+
+### Q: Is there a warranty on installations?
+**A:** Yes, all our implementations come with:
+- Installation warranty covering workmanship
+- Manufacturer warranties on hardware components
+- Initial support period (typically 30-60 days)
+We also offer extended support and maintenance plans.
+
+### Q: Can systems be upgraded in the future?
+**A:** Absolutely. We design all our solutions with scalability and future expansion in mind. As your needs grow or technology evolves, we can:
+- Add additional devices or components
+- Upgrade to newer technologies
+- Expand coverage to additional areas
+- Integrate new features and capabilities
+
+### Q: How do you handle data security and privacy?
+**A:** We take data security and privacy very seriously. Our approach includes:
+- Encrypted communications for all systems
+- Secure authentication methods
+- Regular security updates
+- Data minimization practices
+- Compliance with Bahrain's data protection regulations
+- Comprehensive security training for our team
 
 ## Related Documents
 - Smart Solutions FAQ
 - Analytics & BI FAQ
-- Networking & DT FAQ
+- Networking & Digital Transformation FAQ
 - Products FAQ
 - Support & Maintenance FAQ
-- Service Inquiry Decision Tree
+- Business Hours & Holidays
 
 ## Version History
-| Version | Date       | Changes                      | Author                 |
-|---------|------------|------------------------------|------------------------|
-| 1.0     | 2025-04-22 | Initial FAQ creation         | BY MB Documentation Team |
+| Version | Date       | Changes              | Author                |
+|---------|------------|---------------------|----------------------|
+| 1.0     | 2025-04-22 | Initial creation    | BY MB Documentation Team |
