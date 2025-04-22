@@ -1,7 +1,7 @@
 # BY MB Consultancy 🏢
 
 <p align="center">
-  <img src="logo/Logo-text-black.svg",src="logo/Logo-text-white.svg", alt="BY MB Consultancy Logo" width="200"/>
+  <img src="logo/Logo-text-black-white-bg.svg", alt="BY MB Consultancy Logo" width="200"/>
 </p>
 
 <p align="center">
