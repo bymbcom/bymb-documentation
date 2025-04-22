@@ -1,4 +1,4 @@
-# BY MB Consultancy 🏢
+# BY MB Consultancy
 
 <p align="center">
   <img src="logo/Logo-text-black-white-bg.svg", alt="BY MB Consultancy Logo" width="200"/>
@@ -20,29 +20,29 @@
 
 BY MB Consultancy is a forward-thinking technology solutions provider based in Manama, Bahrain. Founded in March 2023, we specialize in delivering cutting-edge technology solutions that enhance security, improve efficiency, and drive business success for both residential and commercial clients throughout Bahrain.
 
-### 🌟 What We Offer
+### What We Offer
 
-- 🏠 **Smart Solutions**: Advanced CCTV, home automation, and integrated security systems
-- 📊 **Analytics & Business Intelligence**: Power BI, SQL solutions, and predictive analytics
-- 🔄 **Digital Transformation**: Network infrastructure, cloud migration, and process automation
-- 🛍️ **Online Store**: Curated technology products for CCTV, networking, and smart home devices
+- **Smart Solutions**: Advanced CCTV, home automation, and integrated security systemsb
+- **Analytics & Business Intelligence**: Power BI, SQL solutions, and predictive analytics
+- **Digital Transformation**: Network infrastructure, cloud migration, and process automation
+- **Online Store**: Curated technology products for CCTV, networking, and smart home devices
 
 ## Services
 
-### Smart Solutions 🏠
+### Smart Solutions 
 Transform your home or business with integrated security and automation systems:
 - Advanced CCTV & Security Systems (24/7 surveillance, night vision, remote monitoring)
 - Home & Office Automation (lighting, climate, entertainment)
 - Integrated Smart Ecosystems (centralized control, voice integration)
 
-### Analytics & Business Intelligence 📊
+### Analytics & Business Intelligence 
 Turn your data into strategic insights:
 - Custom Power BI dashboards
 - Database design and optimization
 - Web scraping and ETL processes
 - Predictive analytics and modeling
 
-### Networking & Digital Transformation 🌐
+### Networking & Digital Transformation 
 Build robust infrastructure and modernize operations:
 - Enterprise networking solutions
 - Digital transformation consulting
@@ -75,10 +75,10 @@ We leverage industry-leading technologies to deliver exceptional results:
 ## Target Market
 
 We serve clients throughout Bahrain, including:
-- 🏘️ Homeowners seeking smart home solutions
-- 💼 Small to medium businesses needing digital transformation
-- 🏗️ Property developers incorporating advanced technologies
-- 🖥️ IT-dependent organizations requiring end-to-end solutions
+- Homeowners seeking smart home solutions
+- Small to medium businesses needing digital transformation
+- Property developers incorporating advanced technologies
+- IT-dependent organizations requiring end-to-end solutions
 
 ## Contributing
 
@@ -86,11 +86,11 @@ We welcome contributions from partners and collaborators. Please read our [CONTR
 
 ## Contact
 
-📍 **Location**: Manama, Bahrain  
-📞 **Phone**: +973-66300033  
-📧 **Email**: info@by-mb.com  
-🌐 **Website**: www.by-mb.com  
-⏰ **Hours**: Sunday-Thursday, 9am-6pm  
+**Location**: Manama, Bahrain  
+**Phone**: +973-66300033  
+**Email**: info@by-mb.com  
+**Website**: www.by-mb.com  
+**Hours**: Sunday-Thursday, 9am-6pm  
 
 ### Connect With Us
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/by-mb)
