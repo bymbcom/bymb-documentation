@@ -1,11 +1,11 @@
 # BY MB Knowledge Center - Status Dashboard
 
 **Last Updated:** April 22, 2025  
-**Total Progress:** 19/84 documents completed (23%)
+**Total Progress:** 20/85 documents completed (24%)
 
 ## 📈 Overall Progress
 
-### ✅ Completed Documents: 19
+### ✅ Completed Documents: 20
 
 1. **Core Documentation**
    - Knowledge Center README
@@ -16,13 +16,14 @@
    - Company Profile (English)
    - Company Profile (Arabic)
 
-3. **Templates** (6 documents)
+3. **Templates** (7 documents)
    - Service Documentation Template
    - Product Documentation Template
    - FAQ Template
    - Policy Document Template
    - Troubleshooting Guide Template
    - Decision Tree Template
+   - AI Role Template *(NEW)*
 
 4. **Example Documents**
    - Smart Home Automation Service
@@ -113,7 +114,7 @@
 | Technical Docs | 11 | 0 | 11 | 0% |
 | FAQs | 6 | 0 | 6 | 0% |
 | Decision Trees | 5 | 1 | 4 | 20% |
-| Templates | 6 | 6 | 0 | 100% ✅ |
+| Templates | 7 | 7 | 0 | 100% ✅ |
 | Style Guide | 4 | 1 | 3 | 25% |
 | Approval Workflow | 7 | 1 | 6 | 14% |
 
@@ -123,6 +124,7 @@
 - [x] Create Data Privacy Policy ✅
 - [x] Create Content Update Policy ✅
 - [x] Create Emergency Response Policy ✅
+- [x] Create AI Role Template ✅
 - [ ] Create General FAQ
 - [ ] Create Consultation Process Procedure
 - [ ] Create Team Members Directory
