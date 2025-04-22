@@ -1,16 +1,3 @@
-# AI Role Definition Template
-
-## Document Information
-- **Document ID:** Templates_AI_RoleDefinition_v1.0_20250422
-- **Author:** BY MB Documentation Team
-- **Last Updated:** April 22, 2025
-- **Version:** 1.0
-- **Language:** English
-- **Review Date:** October 22, 2025
-- **Keywords:** AI role, agent template, system prompt, role definition
-
----
-
 # [BY_MB]_AI_Role_Template_v1.0.md
 
 **ID:** [ROLE_ID]  
@@ -18,8 +5,8 @@
 **Version:** 1.0  
 **Date:** [YYYY-MM-DD]  
 **Language:** English/Arabic  
-**Review Date:** [Review Date]  
-**Keywords:** [List of keywords]  
+**Review Date:** [Date]  
+**Keywords:** [List of keywords]
 
 ---
 
@@ -180,37 +167,3 @@ Flag anything unclear, custom, or risky for human follow-up.
 - `/Knowledge_Center/[Topic]`
 - `/Policies/[Policy_File]`
 - `/Decision_Trees/[Flowchart_File]`
-
----
-
-## Template Usage Instructions
-
-### How to Use This Template
-1. Copy this template to create new AI role definitions
-2. Replace all placeholders in [brackets] with appropriate content
-3. Ensure all required metadata fields are completed
-4. Apply appropriate AI context markers throughout
-5. Submit for review through established approval workflow
-
-### File Naming Convention
-```
-AI_Roles_[AgentName]_v[X.X]_[YYYYMMDD].md
-```
-
-### Placement in Knowledge Center
-Save completed role definitions in:
-```
-/Knowledge_Center/AI_Roles/[AgentName]/
-```
-
-### Review and Update Schedule
-- Monthly: Performance metrics review
-- Quarterly: Role responsibilities and access review
-- Annually: Complete role definition review
-
----
-
-## Template Version History
-| Version | Date       | Changes                    | Author              |
-|---------|------------|----------------------------|---------------------|
-| 1.0     | 2025-04-22 | Initial template creation  | BY MB Documentation Team |
