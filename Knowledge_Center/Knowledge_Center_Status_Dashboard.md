@@ -1,29 +1,32 @@
 # BY MB Knowledge Center - Status Dashboard
 
 **Last Updated:** April 22, 2025  
-**Total Progress:** 20/85 documents completed (24%)
+**Total Progress:** 23/85 documents completed (27%)
 
 ## 📈 Overall Progress
 
-### ✅ Completed Documents: 20
+### ✅ Completed Documents: 23
 
 1. **Core Documentation**
    - Knowledge Center README
    - Knowledge Center Policy for AI
    - Knowledge Center Status Dashboard (this document)
 
-2. **Company Information**
+2. **Company Information** (6 documents)
    - Company Profile (English)
    - Company Profile (Arabic)
+   - Team Members Directory ✅
+   - Business Hours & Holidays ✅
+   - Company History Timeline ✅
 
-3. **Templates** (7 documents)
+3. **Templates** (7 documents) ✅ COMPLETED
    - Service Documentation Template
    - Product Documentation Template
    - FAQ Template
    - Policy Document Template
    - Troubleshooting Guide Template
    - Decision Tree Template
-   - AI Role Template *(NEW)*
+   - AI Role Template
 
 4. **Example Documents**
    - Smart Home Automation Service
@@ -41,15 +44,10 @@
 
 ## 🔄 In Progress: 0
 
-## 🔲 Pending: 65
+## 🔲 Pending: 62
 
 ### High Priority (Complete within 1 month)
-1. **Company Information** (3)
-   - Team Members Directory
-   - Business Hours & Holidays
-   - Company History Timeline
-
-2. **Procedures** (7)
+1. **Procedures** (7)
    - Consultation Process Procedure
    - Implementation Methodology
    - Support Protocols
@@ -58,7 +56,7 @@
    - Maintenance Schedule
    - Quality Assurance Process
 
-3. **FAQs** (6)
+2. **FAQs** (6)
    - General FAQ
    - Smart Solutions FAQ
    - Analytics & BI FAQ
@@ -107,7 +105,7 @@
 | Category | Total | ✅ Completed | 🔲 Pending | % Complete |
 |----------|-------|-------------|------------|------------|
 | Policies | 4 | 4 | 0 | 100% ✅ |
-| Company Info | 7 | 3 | 4 | 43% |
+| Company Info | 7 | 6 | 1 | 86% |
 | Services | 15 | 1 | 14 | 7% |
 | Products | 12 | 0 | 12 | 0% |
 | Procedures | 7 | 0 | 7 | 0% |
@@ -125,24 +123,26 @@
 - [x] Create Content Update Policy ✅
 - [x] Create Emergency Response Policy ✅
 - [x] Create AI Role Template ✅
+- [x] Create Team Members Directory ✅
+- [x] Create Business Hours & Holidays ✅
+- [x] Create Company History Timeline ✅
 - [ ] Create General FAQ
 - [ ] Create Consultation Process Procedure
-- [ ] Create Team Members Directory
 
 ### Week 2 (April 29-May 5, 2025)
 - [ ] Create Smart Solutions FAQ
 - [ ] Create Implementation Methodology
-- [ ] Create Business Hours & Holidays
+- [ ] Create Support Protocols
 
 ### Week 3 (May 6-12, 2025)
-- [ ] Create Support Protocols
 - [ ] Create Analytics & BI FAQ
-- [ ] Create Company History Timeline
+- [ ] Create Installation Process Procedure
+- [ ] Create Maintenance Schedule
 
 ### Week 4 (May 13-19, 2025)
-- [ ] Create Installation Process Procedure
 - [ ] Create Networking & DT FAQ
-- [ ] Create Maintenance Schedule
+- [ ] Create Emergency Response Procedure
+- [ ] Create Quality Assurance Process
 
 ## 📋 Document Creation Guidelines
 
