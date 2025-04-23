@@ -64,4 +64,4 @@ If any step in the procedure fails (e.g., Odoo API tool returns an error, device
 ## Version History
 | Version | Date           | Changes                                                    | Author             |
 | :------ | :------------- | :--------------------------------------------------------- | :----------------- |
-| 1.0     | [Current Date] | Initial procedure for controlling MCP devices via Odoo API | BY MB Documentation Team |
+| 1.0     | 20250423       | Initial procedure for controlling MCP devices via Odoo API | BY MB Documentation Team |
