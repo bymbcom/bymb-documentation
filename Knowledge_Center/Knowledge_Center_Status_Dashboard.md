@@ -1,20 +1,19 @@
 # BY MB Knowledge Center - Status Dashboard
 
 **Last Updated:** April 26, 2025
-**Total Progress:** 40/85 documents completed (47%)
+**Total Progress:** 41/85 documents completed (48%)
 
 ## 📈 Overall Progress
 
-### ✅ Completed Documents: 40
+### ✅ Completed Documents: 41
 
 1. **Core Documentation**
    * Knowledge Center README
    * Knowledge Center Policy for AI
    * Knowledge Center Status Dashboard (this document)
 
-2. **Company Information** (6 documents) ✅ COMPLETED
+2. **Company Information** (5 documents) ✅ COMPLETED
    * Company Profile (English) v1.1
-   * Company Profile v1.0
    * Company Profile (Arabic) v1.0
    * Team Members Directory v1.0
    * Business Hours & Holidays v1.0
@@ -56,23 +55,28 @@
    * Support Protocols v1.0
    * Control MCP Device via Odoo v1.0
    * Smart Home Automation Service
-   * Emergency Response Procedure v1.0 (NEW)
-   * Installation Process v1.0 (NEW)
-   * Maintenance Schedule v1.0 (NEW)
-   * Quality Assurance Process v1.0 (NEW)
+   * Emergency Response Procedure v1.0
+   * Installation Process v1.0
+   * Maintenance Schedule v1.0
+   * Quality Assurance Process v1.0
 
 9. **System Architecture** (1 document) ✅ COMPLETED
    * AI Agent System Infrastructure Overview v1.0
 
+10. **Services Documentation** (2 documents)
+    * Smart Home Automation v1.0
+    * Advanced Security Systems v1.0
+    * Integrated Smart Ecosystems v1.0
+    * Smart Home Automation Service v1.0
+
 ## 🔄 In Progress: 0
 
-## 🔲 Pending: 45
+## 🔲 Pending: 44
 
 ### Medium Priority (Complete within 3 months)
-1. **Services Documentation** (13)
-   * Smart Solutions (3 remaining)
+1. **Services Documentation** (11)
    * Analytics & Business Intelligence (5)
-   * Networking & Digital Transformation (5)
+   * Networking & Digital Transformation (6)
 
 2. **Product Documentation** (12)
    * CCTV Products (4)
@@ -106,32 +110,32 @@
 
 ## 📊 Progress by Category
 
-| Category             | Total | ✅ Completed | 🔲 Pending | % Complete |
-| :------------------- | :---- | :---------- | :--------- | :--------- |
-| Policies             | 4     | 4           | 0          | 100% ✅    |
-| Company Info         | 6     | 6           | 0          | 100% ✅    |
-| Services             | 15    | 2           | 13         | 13%        |
-| Products             | 12    | 0           | 12         | 0%         |
-| Procedures           | 9     | 9           | 0          | 100% ✅    |
-| Technical Docs       | 11    | 0           | 11         | 0%         |
-| FAQs                 | 7     | 7           | 0          | 100% ✅    |
-| Decision Trees       | 4     | 1           | 3          | 25%        |
-| Templates            | 7     | 7           | 0          | 100% ✅    |
-| Style Guide          | 4     | 1           | 3          | 25%        |
-| Approval Workflow    | 7     | 2           | 5          | 29%        |
-| **System Architecture**| **1** | **1**       | **0**      | **100% ✅**|
+| Category               | Total | ✅ Completed | 🔲 Pending | % Complete |
+| :--------------------- | :---- | :---------- | :--------- | :--------- |
+| Policies               | 4     | 4           | 0          | 100% ✅    |
+| Company Info           | 5     | 5           | 0          | 100% ✅    |
+| Services               | 15    | 4           | 11         | 27%        |
+| Products               | 12    | 0           | 12         | 0%         |
+| Procedures             | 9     | 9           | 0          | 100% ✅    |
+| Technical Docs         | 11    | 0           | 11         | 0%         |
+| FAQs                   | 7     | 7           | 0          | 100% ✅    |
+| Decision Trees         | 4     | 1           | 3          | 25%        |
+| Templates              | 7     | 7           | 0          | 100% ✅    |
+| Style Guide            | 4     | 1           | 3          | 25%        |
+| Approval Workflow      | 7     | 2           | 5          | 29%        |
+| System Architecture    | 1     | 1           | 0          | 100% ✅    |
 
 ## 🎯 Next Steps
 
 ### Week 3 (May 6-12, 2025)
-- [ ] Create remaining service documentation for Smart Solutions
+- [ ] Create documentation for Analytics & Business Intelligence services (start with 2 documents)
 - [ ] Create first product documentation (CCTV Products)
-- [ ] Create first Technical Documentation
+- [ ] Create first Technical Documentation (Installation Guide)
 
 ### Week 4 (May 13-19, 2025)
-- [ ] Continue service documentation for Analytics & BI
+- [ ] Continue service documentation for Networking & Digital Transformation
 - [ ] Create Product Selection Decision Tree
-- [ ] Create Installation Guides
+- [ ] Create more Installation Guides
 
 ## 📋 Document Creation Guidelines
 
@@ -162,13 +166,9 @@ For assistance with document creation:
 *This dashboard is updated as new documents are completed*
 
 ## Summary of Changes Since Last Update (April 26, 2025):
-- Added 4 new Procedure documents:
-  - Emergency Response Procedure v1.0
-  - Installation Process v1.0
-  - Maintenance Schedule v1.0
-  - Quality Assurance Process v1.0
-- Updated "Total Progress" from 36/85 to 40/85 (47%)
-- Decreased "Pending" from 49 to 45
-- Updated Procedures count from 5 to 9 documents
-- Updated Procedures category to "COMPLETED" (100%)
-- Revised Next Steps section to reflect completed high-priority items
+- Updated "Smart Solutions" documentation count from 2 to 4 completed documents
+- Corrected Company Information count from 6 to 5 documents to match actual files
+- Updated "Total Progress" from 40/85 to 41/85 (48%)
+- Decreased "Pending" from 45 to 44
+- Updated Services completion from 13% to 27%
+- Revised Next Steps section to focus on Analytics & BI documentation
