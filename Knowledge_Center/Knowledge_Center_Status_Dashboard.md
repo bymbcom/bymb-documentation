@@ -1,19 +1,20 @@
 # BY MB Knowledge Center - Status Dashboard
 
 **Last Updated:** April 26, 2025
-**Total Progress:** 35/85 documents completed (41%)
+**Total Progress:** 36/85 documents completed (42%)
 
 ## 📈 Overall Progress
 
-### ✅ Completed Documents: 35
+### ✅ Completed Documents: 36
 
 1. **Core Documentation**
    * Knowledge Center README
    * Knowledge Center Policy for AI
    * Knowledge Center Status Dashboard (this document)
 
-2. **Company Information** (5 documents)
+2. **Company Information** (6 documents) ✅ COMPLETED
    * Company Profile (English) v1.1
+   * Company Profile v1.0 (NEW)
    * Company Profile (Arabic) v1.0
    * Team Members Directory v1.0
    * Business Hours & Holidays v1.0
@@ -61,7 +62,7 @@
 
 ## 🔄 In Progress: 0
 
-## 🔲 Pending: 50
+## 🔲 Pending: 49
 
 ### High Priority (Complete within 1 month)
 1. **Procedures** (3 remaining)
@@ -111,7 +112,7 @@
 | Category             | Total | ✅ Completed | 🔲 Pending | % Complete |
 | :------------------- | :---- | :---------- | :--------- | :--------- |
 | Policies             | 4     | 4           | 0          | 100% ✅    |
-| Company Info         | 5     | 5           | 0          | 100% ✅    |
+| Company Info         | 6     | 6           | 0          | 100% ✅    |
 | Services             | 15    | 2           | 13         | 13%        |
 | Products             | 12    | 0           | 12         | 0%         |
 | Procedures           | 8     | 5           | 3          | 63%        |
@@ -167,14 +168,9 @@ For assistance with document creation:
 
 *This dashboard is updated as new documents are completed*
 
-## Summary of Changes Since Last Update (April 23, 2025):
-- Updated "Total Progress" from 34/85 to 35/85 (41%)
-- Decreased "Pending" from 51 to 50
-- Added version numbers to documents for clarity
-- Updated Company Information documents count from 6 to 5 (accurate count)
-- Updated FAQ documents count from 6 to 7 (accurate count)
-- Added Smart Home Automation Service to completed Procedures
-- Updated the "Company Info" row in the Progress by Category table to 100% complete
-- Updated the "Procedures" row to reflect 5 completed documents (63%)
-- Updated the "FAQs" row to reflect 7 completed documents (100%)
-- Updated the "Services" row to reflect 2 completed documents (13%)
+## Summary of Changes Since Last Update (April 26, 2025):
+- Added new document: Company Profile v1.0
+- Updated "Total Progress" from 35/85 to 36/85 (42%)
+- Decreased "Pending" from 50 to 49
+- Updated Company Information count from 5 to 6 documents
+- Updated Company Info category to "COMPLETED"
