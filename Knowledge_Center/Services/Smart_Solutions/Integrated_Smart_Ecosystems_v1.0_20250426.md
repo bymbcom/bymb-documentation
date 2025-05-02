@@ -44,7 +44,7 @@ Integrated Smart Ecosystems is BY MB Consultancy's premier service for creating 
 - Real-time system status monitoring
 
 ### Cross-Platform Device Integration
-- Zigbee and Z-Wave device incorporation
+- Zigbee device incorporation
 - Matter protocol support for future-proof compatibility
 - Wi-Fi device integration and management
 - Bluetooth device connectivity
