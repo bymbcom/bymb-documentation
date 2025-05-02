@@ -66,11 +66,11 @@ This repository contains documentation and resources for BY MB Consultancy's pro
 
 We leverage industry-leading technologies to deliver exceptional results:
 
-- **Smart Home**: Home Assistant, Zigbee Protocol
+- **Smart Home**: Home Assistant, ESPhome, Zigbee2Mqtt
 - **Security**: Hikvision, EZVIZ
 - **Analytics**: Power BI, SQL, Python
-- **Business Solutions**: Odoo ERP, Cloud Platforms
-- **Networking**: IP-COM, TP-Link
+- **Business Solutions**: AI business Autommation, Odoo ERP, Cloud Platforms
+- **Networking**: TP-Link, IP-COM
 
 ## Target Market
 
