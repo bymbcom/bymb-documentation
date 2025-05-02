@@ -140,7 +140,7 @@ Example implementation: For a client with existing Philips Hue lighting, Nest th
 - Voice control through multiple assistants and devices
 - Advanced scene creation (up to 15 scenes)
 - Custom reports and system monitoring
-- Zigbee/Z-Wave coordinator setup for direct device control
+- Zigbee coordinator setup for direct device control
 - System documentation with network diagrams
 - User training sessions
 - 90 days of priority support
