@@ -228,7 +228,7 @@ Example implementation: A client had previously purchased various smart products
 
 #### Device Compatibility:
 - Verification of existing device compatibility with Home Assistant
-- Z-Wave/Zigbee frequency compatibility for Bahrain (regional variations)
+- Zigbee frequency compatibility for Bahrain (regional variations)
 - Hub processor requirements based on system complexity
 - Storage capacity for security footage and system logs
 
