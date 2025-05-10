@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="#about">About</a> •
+  <a href="#about">About</a> 
   <a href="#services">Services</a> •
   <a href="#projects">Projects</a> •
   <a href="#contact">Contact</a>
