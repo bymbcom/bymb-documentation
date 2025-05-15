@@ -1,4 +1,4 @@
-# BY MB Knowledge Center.
+# BY MB Knowledge Center
 
 <p align="center">
   <strong>AI-Optimized Knowledge Management System</strong><br>
