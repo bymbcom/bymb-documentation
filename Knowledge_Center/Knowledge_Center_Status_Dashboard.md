@@ -1,12 +1,12 @@
 # BY MB Knowledge Center - Status Dashboard
 
-**Last Updated:** May 18, 2025
-**Total Progress:** 60/85 documents completed (71%)
+**Last Updated:** May 19, 2025
+**Total Progress:** 61/85 documents completed (72%)
 
 
 ## 📈 Overall Progress
 
-### ✅ Completed Documents: 60
+### ✅ Completed Documents: 61
 
 1. **Core Documentation**
    * Knowledge Center README
@@ -81,8 +81,8 @@
     * Legacy System Modernization v1.0
     * Customer Success Management v1.0
     * Business Process AI Automation v1.0
-    * Professional Services Catalog v1.0 (NEW)
-    * Service Packages Deliverables v1.0 (NEW)
+    * Professional Services Catalog v1.0
+    * Service Packages Deliverables v1.0
 
 11. **Product Documentation** (3 documents)
     * High-Resolution IP Cameras (4MP+) v1.2
@@ -92,9 +92,13 @@
 12. **Technical Documentation** (1 document)
     * Hikvision CCTV Kit Installation Guide v1.0
 
+13. **Decision Trees** (2 documents)
+    * Service Inquiry Decision Tree v1.0
+    * Security System Selection Decision Tree v1.0 (NEW)
+
 ## 🔄 In Progress: 0
 
-## 🔲 Pending: 25
+## 🔲 Pending: 24
 
 ### Medium Priority (Complete within 3 months)
 1. **Product Documentation** (9)
@@ -108,8 +112,7 @@
    * System Requirements (3)
 
 ### Lower Priority (Complete within 6 months)
-1. **Decision Trees** (3)
-   * Technical Support Decision Tree
+1. **Decision Trees** (2)
    * Product Selection Decision Tree
    * Service Package Selection Decision Tree
    * Escalation Decision Tree
@@ -134,7 +137,7 @@
 | Procedures             | 9     | 9           | 0          | 100% ✅    |
 | Technical Docs         | 11    | 1           | 10         | 9%         |
 | FAQs                   | 7     | 7           | 0          | 100% ✅    |
-| Decision Trees         | 4     | 1           | 3          | 25%        |
+| Decision Trees         | 4     | 2           | 2          | 50%        |
 | Templates              | 7     | 7           | 0          | 100% ✅    |
 | Style Guide            | 4     | 1           | 3          | 25%        |
 | Approval Workflow      | 7     | 5           | 2          | 71%        |
@@ -147,13 +150,14 @@
 - [x] Add new AI Services documentation (Business Process AI Automation v1.0)
 - [x] Add Professional Services Catalog documentation
 - [x] Add Service Packages with Deliverables documentation
-- [ ] Create Product Selection Decision Tree (1 document)
+- [x] Create Security System Selection Decision Tree
 
 ### Week 5 (May 20-26, 2025)
 - [ ] Create Networking Products documentation (1 document)
 - [ ] Begin Smart Home Devices documentation (1 document)
 - [ ] Create second Installation Guide (1 document)
 - [ ] Develop System Requirements documentation (1 document)
+- [ ] Create Service Package Selection Decision Tree (1 document)
 
 ## 📋 Document Creation Guidelines
 
@@ -183,12 +187,9 @@ For assistance with document creation:
 
 *This dashboard is updated as new documents are completed*
 
-## Summary of Changes Since Last Update (May 18, 2025):
-- Added major new documentation to the Services section:
-  - Professional Services Catalog v1.0
-  - Service Packages Deliverables v1.0
-- Expanded the Hikvision Pricing Catalog with comprehensive product listings and pricing
-- Updated "Total Progress" from 57/85 to 60/85 (71%)
-- Decreased "Pending" from 28 to 25
-- Increased Services documentation count from 16 to 18 (100% complete)
-- Updated Next Steps section with completed tasks and new priorities
+## Summary of Changes Since Last Update (May 19, 2025):
+- Added new Security System Selection Decision Tree document
+- Updated "Total Progress" from 60/85 to 61/85 (72%)
+- Decreased "Pending" from 25 to 24
+- Increased Decision Trees completion from 25% to 50% (2/4 documents)
+- Updated Next Steps section with completed tasks and new priorities for Week 5
