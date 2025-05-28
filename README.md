@@ -1,108 +1,168 @@
-# BY MB Consultancy
+# BY MB Knowledge Center
 
 <p align="center">
-  <img src="logo/Logo-text-black-white-bg.svg", alt="BY MB Consultancy Logo" width="200"/>
+  <strong>AI-Optimized Knowledge Management System</strong><br>
+  <em>Powering intelligent responses and efficient customer service</em>
 </p>
 
-<p align="center">
-  <strong>Smart Solutions for Modern Living & Business</strong><br>
-  <em>Success is a Journey, Not a Destination</em>
-</p>
+## 🎯 Purpose
 
-<p align="center">
-  <a href="#about">About</a> 
-  <a href="#services">Services</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#contact">Contact</a>
-</p>
+The BY MB Knowledge Center is a comprehensive, AI-optimized documentation system designed to:
+- Enable AI systems to provide accurate, consistent information about our services
+- Maintain a single source of truth for all company knowledge
+- Ensure efficient customer service through standardized documentation
+- Facilitate easy updates and maintenance of company information
 
-## About
-
-BY MB Consultancy is a forward-thinking technology solutions provider based in Manama, Bahrain. Founded in March 2023, we specialize in delivering cutting-edge technology solutions that enhance security, improve efficiency, and drive business success for both residential and commercial clients throughout Bahrain.
-
-### What We Offer
-
-- **Smart Solutions**: Advanced CCTV, home automation, and integrated security systemsb
-- **Analytics & Business Intelligence**: Power BI, SQL solutions, and predictive analytics
-- **Digital Transformation**: Network infrastructure, cloud migration, and process automation
-- **Online Store**: Curated technology products for CCTV, networking, and smart home devices
-
-## Services
-
-### Smart Solutions 
-Transform your home or business with integrated security and automation systems:
-- Advanced CCTV & Security Systems (24/7 surveillance, night vision, remote monitoring)
-- Home & Office Automation (lighting, climate, entertainment)
-- Integrated Smart Ecosystems (centralized control, voice integration)
-
-### Analytics & Business Intelligence 
-Turn your data into strategic insights:
-- Custom Power BI dashboards
-- Database design and optimization
-- Web scraping and ETL processes
-- Predictive analytics and modeling
-
-### Networking & Digital Transformation 
-Build robust infrastructure and modernize operations:
-- Enterprise networking solutions
-- Digital transformation consulting
-- Cloud solutions and migration
-- Process automation
-
-## Projects
-
-This repository contains documentation and resources for BY MB Consultancy's projects:
+## 📋 Structure Overview
 
 ```
-├── company-profile/         # Official company profile documents
-├── marketing/              # Marketing materials and templates
-├── case-studies/          # Client success stories
-├── presentations/         # Business presentations
-├── products/              # Product specifications and pricelists
-└── resources/             # Technical guides and FAQs
+Knowledge_Center/
+├── README.md ✅
+├── Policies/
+│   └── Knowledge_Center_Policy_for_AI_v1.0_20250422.md ✅
+├── Company_Information/
+│   ├── Company_Profile_English_v1.1_20250422.md ✅
+│   └── Company_Profile_Arabic_v1.0_20250422.md ✅
+├── Services/
+│   └── Smart_Solutions/
+│       └── Smart_Home_Automation_Service_v1.0_20250422.md ✅
+├── Templates/
+│   ├── Service_Documentation_Template.md ✅
+│   ├── Product_Documentation_Template.md ✅
+│   ├── FAQ_Template.md ✅
+│   ├── Policy_Document_Template.md ✅
+│   ├── Troubleshooting_Guide_Template.md ✅
+│   └── Decision_Tree_Template.md ✅
+├── Style_Guide/
+│   └── Style_Guide_v1.0_20250422.md ✅
+├── Approval_Workflow/
+│   └── Approval_Workflow_v1.0_20250422.md ✅
+└── Decision_Trees/
+    └── Service_Inquiry_Decision_Tree_v1.0_20250422.md ✅
+
 ```
 
-## Technology Stack
+## 🔍 Key Components
 
-We leverage industry-leading technologies to deliver exceptional results:
+### 1. AI-Specific Markers
 
-- **Smart Home**: Home Assistant, ESPhome, Zigbee2Mqtt
-- **Security**: Hikvision, EZVIZ
-- **Analytics**: Power BI, SQL, Python
-- **Business Solutions**: AI business Autommation, Odoo ERP, Cloud Platforms
-- **Networking**: TP-Link, IP-COM
+Our documentation uses special markers to guide AI behavior:
 
-## Target Market
+- `[AI-PRIORITY]` - Essential information for AI responses
+- `[AI-CAUTION]` - Sensitive information requiring careful handling
+- `[AI-EXAMPLE]` - Examples AI can use in responses
+- `[AI-ESCALATE]` - Topics requiring human intervention
 
-We serve clients throughout Bahrain, including:
-- Homeowners seeking smart home solutions
-- Small to medium businesses needing digital transformation
-- Property developers incorporating advanced technologies
-- IT-dependent organizations requiring end-to-end solutions
+### 2. Document Naming Convention
 
-## Contributing
+All documents follow this format:
+```
+[Category]_[Subcategory]_[Description]_v[Version]_[Date]
+```
+Example: `Services_SmartSolutions_HomeAutomation_v1.0_20250422.md`
 
-We welcome contributions from partners and collaborators. Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+### 3. Version Control
 
-## Contact
+- Major updates: 1.0, 2.0, 3.0
+- Minor updates: 1.1, 1.2, 1.3
+- All changes documented in version history
 
-**Location**: Manama, Bahrain  
-**Phone**: +973-66300033  
-**Email**: info@by-mb.com  
-**Website**: www.by-mb.com  
-**Hours**: Sunday-Thursday, 9am-6pm  
+## 📝 Content Guidelines
 
-### Connect With Us
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/by-mb)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bymbcom)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bymbcom)
+### Required Document Elements
+- Document metadata (ID, author, date, version)
+- Clear section structure with headings
+- AI context markers where appropriate
+- Related document links
+- Version history table
 
-## License
+### Quality Checklist
+- ✅ Accurate information
+- ✅ Clear, concise language
+- ✅ Proper AI markers
+- ✅ Complete metadata
+- ✅ Valid cross-references
 
-© 2025 BY MB Consultancy. All Rights Reserved.
+## 🔄 Maintenance Process
+
+### Review Schedule
+- **Company Information**: Quarterly
+- **Services**: Monthly
+- **Technical Documentation**: Bi-monthly
+- **Products**: As needed with changes
+- **Policies**: Semi-annually
+
+### Approval Workflow
+1. Content creation using templates
+2. Review by subject matter expert
+3. Style guide compliance check
+4. Final approval
+5. Publication to Knowledge Center
+
+## 🚀 Getting Started
+
+### For Content Contributors
+1. Use appropriate template from `/Templates`
+2. Follow style guide from `/Style_Guide`
+3. Include all required metadata
+4. Submit for review following approval workflow
+
+### For AI Integration
+1. Ensure AI system can parse markdown format
+2. Configure recognition of AI markers
+3. Implement decision tree logic
+4. Test escalation pathways
+
+## 🛠 Troubleshooting
+
+### Common Issues
+- **Missing AI markers**: Review document against template
+- **Inconsistent formatting**: Check style guide compliance
+- **Broken links**: Verify document paths and names
+- **Outdated content**: Check review date and update schedule
+
+## 📊 Status Dashboard
+
+| Category | Total Documents | ✅ Completed | 🔲 Pending |
+|----------|----------------|-------------|------------|
+| Policies | 4 | 1 | 3 |
+| Company Info | 7 | 3 | 4 |
+| Services | 15 | 1 | 14 |
+| Products | 12 | 0 | 12 |
+| Procedures | 7 | 1 | 6 |
+| Technical Docs | 11 | 0 | 11 |
+| FAQs | 6 | 0 | 6 |
+| Decision Trees | 5 | 1 | 4 |
+| Templates | 6 | 6 | 0 |
+| Style Guide | 4 | 1 | 3 |
+| Approval Workflow | 7 | 1 | 6 |
+
+**Total Progress: 13/84 documents completed**
+
+## 📞 Support
+
+For assistance with Knowledge Center content:
+- **Email**: knowledge@by-mb.com
+- **Internal Team**: #knowledge-center on Slack
+- **Documentation Issues**: Create issue in this repository
+
+## 🔐 Security
+
+- Access levels defined in `Policies/Access_Control_Policy.md`
+- Sensitive information guidelines in `Style_Guide/Security_Guidelines.md`
+- Emergency protocols in `Policies/Emergency_Response_Policy.md`
+
+## 📅 Upcoming Updates
+
+- [ ] Complete high-priority documents (General FAQ, Consultation Process)
+- [ ] Develop service-specific documentation
+- [ ] Create product catalogs with specifications
+- [ ] Finalize technical guides and troubleshooting documents
+- [ ] Implement visual workflow diagrams
 
 ---
 
 <p align="center">
-  <strong>Empowering Better Living and Business Through Smart Technology</strong>
+  <strong>Maintained by BY MB Consultancy Documentation Team</strong><br>
+  <em>Last Updated: April 22, 2025</em>
 </p>
