@@ -140,8 +140,8 @@ plugins:
       lang: 
         - en
         - ar
-  - minify:
-      minify_html: true
+#  - minify:
+    #  minify_html: true
 
 # Extra
 extra:
