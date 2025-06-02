@@ -2,11 +2,13 @@
 site_name: BY MB Knowledge Center
 site_description: AI-Optimized Knowledge Management System for BY MB Consultancy
 site_author: BY MB Consultancy Documentation Team
-site_url: https://docs.bymb.com
+site_url: https://bymbcom.github.io/bymb-documentation/
+docs_dir: '.'
 
 # Repository
 repo_name: bymbcom/bymb-documentation
 repo_url: https://github.com/bymbcom/bymb-documentation
+edit_uri: edit/main/s://github.com/bymbcom/bymb-documentation
 edit_uri: edit/main/
 
 # Theme
