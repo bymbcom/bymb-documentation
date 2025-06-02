@@ -2,17 +2,17 @@
 
 Welcome to the **BY MB Knowledge Center** - an AI-optimized knowledge management system powering intelligent responses and efficient customer service.
 
-## ? Purpose
+## Purpose
 
 The BY MB Knowledge Center serves as the foundation for intelligent customer service and business operations. This system enables AI agents to provide accurate, consistent information about our services while maintaining a centralized repository of all company knowledge.
 
-## ? Current Status
+## Current Status
 
 **Project Progress:** 65 of 89 documents completed (73%)  
 **AI Implementation:** Phase 1 (Role Definitions) completed, Phase 2 (Technical Implementation) pending  
 **Last Updated:** May 29, 2025
 
-## ?? Knowledge Areas
+## Knowledge Areas
 
 ### [Company Information](Company_Information/)
 Complete company profiles, team directory, and business information in English and Arabic.
@@ -35,7 +35,7 @@ Comprehensive frequently asked questions across all service areas.
 ### [Technical Documentation](Technical_Documentation/)
 System architecture, integration guides, and technical specifications.
 
-## ? AI Integration Framework
+##  AI Integration Framework
 
 The documentation incorporates specialized markers that guide AI behavior:
 - **[AI-PRIORITY]** - Essential information for AI responses
@@ -43,7 +43,7 @@ The documentation incorporates specialized markers that guide AI behavior:
 - **[AI-EXAMPLE]** - Reference materials for AI learning
 - **[AI-ESCALATE]** - Topics requiring human intervention
 
-## ? Getting Started
+## Getting Started
 
 ### For Content Contributors
 1. Review the [Style Guide](Style_Guide/) for formatting standards
@@ -55,21 +55,21 @@ The documentation incorporates specialized markers that guide AI behavior:
 2. Implement decision tree logic from [Decision Trees](Decision_Trees/)
 3. Test escalation pathways thoroughly
 
-## ? Implementation Phases
+## Implementation Phases
 
-### ? Phase 1: Foundation (Completed)
+### Phase 1: Foundation (Completed)
 - Core documentation templates established
 - Company information profiles completed
 - AI agent role definitions finalized
 - Policy frameworks established
 
-### ? Phase 2: Technical Implementation (In Progress)
+###  Phase 2: Technical Implementation (In Progress)
 - Azure AI environment setup
 - API integrations with Power BI and SQL systems
 - Odoo ERP connectivity
 - Multi-agent coordination infrastructure
 
-## ? Strategic Vision
+##  Strategic Vision
 
 The Knowledge Center will evolve into a fully integrated AI-powered customer service ecosystem capable of handling complex inquiries, providing accurate technical guidance, and maintaining seamless escalation to human experts when appropriate.
 
