@@ -5,24 +5,32 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
           
-      - name: Install dependencies
+      - name: Install MkDocs
         run: pip install mkdocs-material
         
-      - name: Deploy docs
+      - name: Configure Git
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          mkdocs gh-deploy --force
+        
+      - name: Deploy to GitHub Pages
+        run: mkdocs gh-deploy --force
