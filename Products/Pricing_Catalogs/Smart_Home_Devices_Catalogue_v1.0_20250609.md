@@ -1,179 +1,174 @@
-# BY MB Consultancy - Smart Home Devices Catalogue
-**Document Version:** v1.0  
-**Date:** June 09, 2025  
-**Author:** BY MB Consultancy  
-**Status:** Active  
-**Category:** Product Pricing
+# BY MB Consultancy - ICS Smart WiFi Devices & EZVIZ Pricing Catalogue
+**September 2024**
+
+## Pricing Methodology
+- **Wholesale Cost**: Base cost from supplier
+- **VAT**: 10% of wholesale cost
+- **VAT-Inclusive Cost**: Wholesale Cost + VAT
+- **Markup**: 35% of VAT-Inclusive Cost (minimum)
+- **Final Price**: VAT-Inclusive Cost + Markup (rounded up to nearest whole BHD)
 
 ---
 
-[AI-PRIORITY] Complete smart home automation product catalogue featuring WiFi-enabled switches, sensors, cameras, and integrated control systems for residential and light commercial applications.
-
-## Smart Home Control Systems
+## ICS Smart Home Control
 
 ### Smart Switches & Dimmers
-- **WiFi Touch Switches**: 1-3 gang configurations
-- **Dimmer Controls**: Variable lighting with scene support
-- **Button Switches**: Physical controls with smart features
-- **Boiler/Water Heater Controls**: High-current switching
-- **Module Integration**: Retrofit existing electrical systems
 
-### Power Management
-- **Smart Plugs**: Remote control and energy monitoring
-- **Power Strips**: Multiple outlet control with USB
-- **Garage Door Openers**: WiFi-enabled access control
-- **Thermostats**: Intelligent climate control systems
-- **Lighting Solutions**: RGB color-changing and warm white
+| Model | Description | Wholesale Cost (BHD) | VAT (10%) | VAT-Inclusive Cost | Markup (35%) | Final Price (BHD) |
+|-------|-------------|----------------------|-----------|-------------------|--------------|-------------------|
+| YS-DS-161 | 20A WiFi Boiler/Water Heater Smart Switch | 8.01 | 0.80 | 8.81 | 3.08 | 12.00 |
+| YS-DS-171 | WiFi Dimmer Touch Switch | 8.10 | 0.81 | 8.91 | 3.12 | 13.00 |
+| YS-DS-101JL-1 | Upgraded model. WiFi Switch 1 gang | 5.40 | 0.54 | 5.94 | 2.08 | 9.00 |
+| YS-DS-101JL-2 | Upgraded model. WiFi Switch 2 gang | 5.85 | 0.59 | 6.44 | 2.25 | 9.00 |
+| YS-DS-101JL-3 | Upgraded model. WiFi Switch 3 gang | 6.30 | 0.63 | 6.93 | 2.43 | 10.00 |
+| YS-DS-102JL-1 | Upgraded model. WiFi Button Switch (1 gang) | 5.85 | 0.59 | 6.44 | 2.25 | 9.00 |
+| YS-DS-102JL-2 | Upgraded model. WiFi Button Switch (2 gang) | 6.30 | 0.63 | 6.93 | 2.43 | 10.00 |
+| YS-DS-102JL-3 | Upgraded model. WiFi Button Switch (3 gang) | 6.75 | 0.68 | 7.43 | 2.60 | 11.00 |
+| YS-X801A-L | WiFi Button Switch (1 gang) | 7.20 | 0.72 | 7.92 | 2.77 | 11.00 |
+| YS-X802A-L | WiFi Button Switch (2 gang) | 7.65 | 0.77 | 8.42 | 2.95 | 12.00 |
+| YS-X803A-L | WiFi Button Switch (3 gang) | 8.10 | 0.81 | 8.91 | 3.12 | 13.00 |
+| YS-TB41 | WiFi 2 Gang 3 Way Light Switch Module | 6.30 | 0.63 | 6.93 | 2.43 | 10.00 |
+| YS-DS-163 | New Arrival! 1GANG Light Switch Module (relay) | 6.21 | 0.62 | 6.83 | 2.39 | 10.00 |
 
-## Security & Surveillance
+### Smart Power Management
 
-### Smart Cameras
-- **Indoor Cameras**: 1080P-4MP with night vision
-- **Outdoor Cameras**: Weather-resistant with solar options
-- **Doorbell Cameras**: Two-way audio and motion alerts
-- **Battery Cameras**: Wire-free installation flexibility
-- **PTZ Cameras**: Pan, tilt, zoom with smart tracking
+| Model | Description | Wholesale Cost (BHD) | VAT (10%) | VAT-Inclusive Cost | Markup (35%) | Final Price (BHD) |
+|-------|-------------|----------------------|-----------|-------------------|--------------|-------------------|
+| YS-SWA913A | UK WiFi Socket | 5.31 | 0.53 | 5.84 | 2.04 | 8.00 |
+| YS-XS-A25 | WiFi Power Strip with USB Port UK Standard | 10.71 | 1.07 | 11.78 | 4.12 | 16.00 |
+| YS-DP-WG002 | WiFi Garage Door Opener | 9.90 | 0.99 | 10.89 | 3.81 | 15.00 |
+| YS-HY08AC-1 | WiFi AC Thermostat | 15.30 | 1.53 | 16.83 | 5.89 | 23.00 |
 
-### Alarm & Sensor Systems
-- **WiFi Alarm Systems**: Central hub with mobile alerts
-- **GSM Integration**: Cellular backup communication
-- **Motion Sensors**: PIR detection with pet immunity
-- **Door/Window Sensors**: Intrusion detection monitoring
-- **Environmental Sensors**: Water, smoke, temperature monitoring
+### Smart Lighting
 
-## Product Brands & Quality
-
-### ICS Smart WiFi Devices
-[AI-CAUTION] Budget-friendly option with basic smart home features. Suitable for starter installations and cost-conscious customers.
-
-- **Price Range**: 5-50 BHD per device
-- **Warranty**: 1-2 years limited warranty
-- **Features**: Basic WiFi connectivity, mobile app control
-- **Integration**: Works with major voice assistants
-- **Best For**: Entry-level smart home automation
-
-### EZVIZ Security Solutions
-- **Price Range**: 16-86 BHD per device
-- **Warranty**: 2-3 years manufacturer warranty
-- **Features**: Advanced AI detection, cloud storage
-- **Integration**: Professional monitoring compatible
-- **Best For**: Comprehensive home security systems
-
-## Installation Packages
-
-### Smart Home Starter Kit (BHD 350)
-**Included Devices**:
-- 3× Smart switches (1-gang)
-- 2× RGB smart bulbs
-- 1× Smart plug with energy monitoring
-- Voice assistant setup
-- Basic automation programming
-
-**Installation Services**:
-- Professional switch installation
-- Network configuration and testing
-- Mobile app setup and training
-- 30-day support and optimization
-
-### Advanced Security Package (BHD 450)
-**Included Devices**:
-- 3× Security cameras (indoor/outdoor mix)
-- 1× Smart doorbell with camera
-- Door/window sensors
-- Motion detection sensors
-- Central alarm system
-
-**Installation Services**:
-- Professional camera mounting
-- Network configuration and testing
-- Mobile app setup with notifications
-- Security system programming and testing
-
-### Complete Smart Home (BHD 950)
-**Included Devices**:
-- 10× Smart switches and dimmers
-- 4× Security cameras with NVR
-- Climate control integration
-- Multi-room audio setup
-- Advanced automation programming
-
-**Installation Services**:
-- Complete electrical integration
-- Professional system design
-- Advanced automation programming
-- Comprehensive user training
-- 90-day premium support
-
-## Technical Specifications
-
-### Connectivity Requirements
-- **WiFi Standards**: 802.11b/g/n (2.4GHz) minimum
-- **Network Speed**: Minimum 10 Mbps internet for cloud features
-- **Router Compatibility**: Most consumer and business routers
-- **Mobile Apps**: iOS and Android compatibility
-- **Voice Control**: Alexa, Google Assistant, Siri integration
-
-### Power Requirements
-- **Smart Switches**: Standard electrical box mounting
-- **Cameras**: PoE, DC adapter, or battery options
-- **Sensors**: Battery-powered with 1-2 year life
-- **Hubs**: Standard AC power with battery backup
-- **Installation**: Professional electrical work recommended
-
-## Service & Support
-
-### Installation Services
-| Service Type | Description | Price (BHD) |
-|--------------|-------------|-------------|
-| Basic Device Setup | Single device installation and configuration | 5-15 per device |
-| Switch Replacement | Professional electrical switch installation | 7 per switch |
-| Camera Installation | Mounting, wiring, and network configuration | 15 per camera |
-| System Integration | Complete home automation setup | 80-150 |
-| Consultation | Needs assessment and solution design | 25 (credited) |
-
-### Ongoing Support
-- **Remote Assistance**: Troubleshooting via phone/online
-- **Software Updates**: Automatic firmware updates
-- **App Support**: Mobile application training
-- **System Expansion**: Adding new devices to existing systems
-- **Warranty Service**: Repair and replacement coordination
-
-## Integration Capabilities
-
-### Smart Home Platforms
-- **Apple HomeKit**: Native iOS integration
-- **Google Home**: Assistant voice control
-- **Amazon Alexa**: Echo device compatibility
-- **Samsung SmartThings**: Hub-based automation
-- **Custom Solutions**: Proprietary automation platforms
-
-### Professional Features
-- **Scene Programming**: Custom automation routines
-- **Scheduling**: Time-based device control
-- **Geofencing**: Location-based automation
-- **Energy Monitoring**: Usage tracking and optimization
-- **Security Integration**: Cameras, alarms, and access control
-
-[AI-ESCALATE] For homes requiring more than 20 smart devices or complex integration with existing building management systems, escalate to smart home specialist.
-
-## Related Documents
-
-- [Smart Home Automation Service](../../Services/Smart_Solutions/Smart_Home_Automation_v1.0_20250506.md)
-- [Smart Home Installation Guide](../../Technical_Documentation/Smart_Home_Installation_Guide_v1.0_20250609.md)
-- [Smart Home Troubleshooting Guide](../../Technical_Documentation/Smart_Home_Troubleshooting_Guide_v1.0_20250609.md)
-- [Premium Smart Home Package](../../Services/Service_Packages_Reference_v1.0_20250609.md)
-
-## Support & Contact
-
-For smart home device consultation and pricing:
-- **Email**: smarthome@by-mb.com
-- **Phone**: +973-66300033
-- **Technical Support**: support@by-mb.com
-- **Installation Scheduling**: install@by-mb.com
+| Model | Description | Wholesale Cost (BHD) | VAT (10%) | VAT-Inclusive Cost | Markup (35%) | Final Price (BHD) |
+|-------|-------------|----------------------|-----------|-------------------|--------------|-------------------|
+| YS-LS5M | WiFi RGB Light Strip Set (5m) | 6.75 | 0.68 | 7.43 | 2.60 | 11.00 |
+| YS-LBA60-9W | WiFi RGB+WW Bulbs 9W | 4.05 | 0.41 | 4.46 | 1.56 | 7.00 |
 
 ---
 
-*This catalogue is part of the BY MB Knowledge Center*  
-*Last Updated: June 09, 2025*
+## ICS Security & Surveillance
 
-*Note: Product availability and pricing subject to supplier inventory. Contact sales team for current stock status and custom configurations.*
+### Smart Cameras
+
+| Model | Description | Wholesale Cost (BHD) | VAT (10%) | VAT-Inclusive Cost | Markup (35%) | Final Price (BHD) |
+|-------|-------------|----------------------|-----------|-------------------|--------------|-------------------|
+| XHR-TY2MP | Indoor WiFi Camera (1080P) | 10.71 | 1.07 | 11.78 | 4.12 | 16.00 |
+| QJ-TY02 | Mini Outdoor WiFi Camera (3MP) | 14.31 | 1.43 | 15.74 | 5.51 | 22.00 |
+| HJG-3MP | 2.5 Inch Outdoor WiFi Camera (3MP) | 22.50 | 2.25 | 24.75 | 8.66 | 34.00 |
+| YS-SN-S3T-SP | WiFi Solar Power Low Consumption Camera | 31.50 | 3.15 | 34.65 | 12.13 | 47.00 |
+| YS-SN-D220T | WiFi Door Bell Camera | 22.50 | 2.25 | 24.75 | 8.66 | 34.00 |
+| YS-SN-S1T | WiFi Lower Power Camera with Battery | 22.50 | 2.25 | 24.75 | 8.66 | 34.00 |
+
+### Smart Alarm Systems
+
+| Model | Description | Wholesale Cost (BHD) | VAT (10%) | VAT-Inclusive Cost | Markup (35%) | Final Price (BHD) |
+|-------|-------------|----------------------|-----------|-------------------|--------------|-------------------|
+| PST-H3 | Tuya Smart WiFi Siren Alarm System Standard Package | 27.00 | 2.70 | 29.70 | 10.40 | 41.00 |
+| PST-G60 | Tuya Smart WiFi GSM Alarm System (2G GSM) | 45.00 | 4.50 | 49.50 | 17.33 | 67.00 |
+
+### Sensors
+
+| Model | Description | Wholesale Cost (BHD) | VAT (10%) | VAT-Inclusive Cost | Markup (35%) | Final Price (BHD) |
+|-------|-------------|----------------------|-----------|-------------------|--------------|-------------------|
+| PST-WD002 | Tuya Smart WiFi Door Sensor | 4.50 | 0.45 | 4.95 | 1.73 | 7.00 |
+| PST-WP002 | Tuya Smart WiFi PIR Sensor | 6.75 | 0.68 | 7.43 | 2.60 | 11.00 |
+| PST-HW400B | Tuya Smart WiFi PIR Ceiling Sensor | 5.85 | 0.59 | 6.44 | 2.25 | 9.00 |
+| PST-WW002 | Tuya Smart WiFi Water Flood Sensor | 6.21 | 0.62 | 6.83 | 2.39 | 10.00 |
+
+---
+
+## EZVIZ WiFi Cameras
+
+| Model | Description | Wholesale Cost (BHD) | VAT (10%) | VAT-Inclusive Cost | Markup (35%) | Final Price (BHD) |
+|-------|-------------|----------------------|-----------|-------------------|--------------|-------------------|
+| CS-CV346-A0-7A3WFR | EZVIZ C6P Mini Pano 3MP WiFi Camera, 1/2.8" Progressive Scan CMOS | 47.40 | 4.74 | 52.14 | 18.25 | 71.00 |
+| CS-H3-R100-1H3WKL-B28 | EZVIZ 3MP IP BULLET CAMERA COLOR NIGHT VISION PRO | 14.40 | 1.44 | 15.84 | 5.54 | 22.00 |
+| CS-BC1C-A0-2C4WPBDL | EZVIZ 2K+ Smart Home Battery Camera | 36.00 | 3.60 | 39.60 | 13.86 | 54.00 |
+| CS-EB3-R100-1H3WKFL-B28 | EZVIZ Standalone Battery Camera | 26.50 | 2.65 | 29.15 | 10.20 | 40.00 |
+| CS-C6-A0-8C4WF-B40 | EZVIZ 2K⁺ Smart Home Camera 4MP-B40 | 18.00 | 1.80 | 19.80 | 6.93 | 27.00 |
+| CS-H6C-R105-1J4WF | EZVIZ 4MP, 360 Degree Rotate, Smart Tracking, Motion Detection, Two way talk | 10.32 | 1.03 | 11.35 | 3.97 | 16.00 |
+| CS-HB8-R100-2C4WPDL | EZVIZ 2K Battery-Powered Pan & Tilt Wi-Fi Camera | 40.00 | 4.00 | 44.00 | 15.40 | 60.00 |
+| CS-CMT-SolarPanel-C | SOLAR CHARGING PANEL; DESIGNED FOR EZVIZ BATTERY-OPERATED CAMERAS | 6.75 | 0.68 | 7.43 | 2.60 | 10.00 |
+| CS-L2S-11FCP | EZVIZ Smart Fingerprint Lock | 57.60 | 5.76 | 63.36 | 22.18 | 86.00 |
+| CS-H8C-R100-1K2WKFL-B40 | EZVIZ 2MP Human Shape Detection Colour Night Vision, 360 Degree Rotate, Outdoor - Weatherproof- B40 | 13.44 | 1.34 | 14.78 | 5.17 | 20.00 |
+| CS-H8C-R100-1J4WKFL-B40 | EZVIZ 4MP Human Shape Detection Colour Night Vision, 360 Degree Rotate, Outdoor - Weatherproof-B40 | 15.36 | 1.54 | 16.90 | 5.92 | 23.00 |
+| CS-CB2-R100-2D2WF-WHI | HIKVISION Wi-Fi Smart Home Battery Camera- WHI | 18.72 | 1.87 | 20.59 | 7.21 | 28.00 |
+| CS-E6-R100-8C5W2F | EZVIZ 3K 5MP Indoor Pan/Tilt Wi-Fi Smart Home Security Camera | 20.88 | 2.09 | 22.97 | 8.04 | 31.00 |
+| CS-HP7-R100-1W2TFC | EZVIZ 2K Smart Home Video Interphone | 54.00 | 5.40 | 59.40 | 20.79 | 81.00 |
+| CS-CB1-R100-1K2WF | EZVIZ CB1 2MP 1080P Wi-Fi Smart Home Battery Camera CCTV Type-C | 13.92 | 1.39 | 15.31 | 5.36 | 21.00 |
+| CS-H6-R100-1J5WF | EZVIZ 3K+ (5MP), Human/Wave/pet detection, Voice activity detection, 2.4G&5G Auto zoom tracking | 15.84 | 1.58 | 17.42 | 6.10 | 24.00 |
+| CS-DB2-A0-2C5WPB | EZVIZ 2MP 5200mAh Rechargeable Battery Powered, PIR & AI Human Detection | 31.20 | 3.12 | 34.32 | 12.01 | 47.00 |
+| CS-HP4-R100-6E2WPFBS | EZVIZ 2K New peephole doorbell with touchable color screen. 2.0mm | 26.00 | 2.60 | 28.60 | 10.01 | 39.00 |
+
+## Smart Home Packages
+
+### Starter Home Automation Kit
+| Components | Regular Price (BHD) | Package Price (BHD) | Savings |
+|------------|---------------------|---------------------|---------|
+| 3× YS-DS-101JL-1 (WiFi Switch 1 gang)<br>2× YS-LBA60-9W (WiFi RGB Bulbs)<br>1× YS-SWA913A (UK WiFi Socket) | 44.00 | 39.00 | 11.4% |
+
+### Advanced Lighting Kit
+| Components | Regular Price (BHD) | Package Price (BHD) | Savings |
+|------------|---------------------|---------------------|---------|
+| 1× YS-LS5M (WiFi RGB Light Strip)<br>4× YS-LBA60-9W (WiFi RGB Bulbs)<br>2× YS-DS-171 (WiFi Dimmer Touch Switch) | 47.00 | 42.00 | 10.6% |
+
+### Home Security Essentials
+| Components | Regular Price (BHD) | Package Price (BHD) | Savings |
+|------------|---------------------|---------------------|---------|
+| 1× XHR-TY2MP (Indoor WiFi Camera)<br>1× YS-SN-D220T (WiFi Door Bell Camera)<br>3× PST-WD002 (WiFi Door Sensors)<br>2× PST-WP002 (WiFi PIR Sensors) | 81.00 | 72.00 | 11.1% |
+
+### Complete Security System
+| Components | Regular Price (BHD) | Package Price (BHD) | Savings |
+|------------|---------------------|---------------------|---------|
+| 1× PST-H3 (WiFi Siren Alarm System)<br>2× QJ-TY02 (Mini Outdoor WiFi Camera)<br>1× XHR-TY2MP (Indoor WiFi Camera)<br>2× PST-WD002 (WiFi Door Sensors) | 110.00 | 97.00 | 11.8% |
+
+### Smart Apartment Package
+| Components | Regular Price (BHD) | Package Price (BHD) | Savings |
+|------------|---------------------|---------------------|---------|
+| 3× YS-DS-101JL-1 (WiFi Switch 1 gang)<br>1× YS-XS-A25 (WiFi Power Strip)<br>2× YS-LBA60-9W (WiFi RGB Bulbs)<br>1× XHR-TY2MP (Indoor WiFi Camera) | 56.00 | 50.00 | 10.7% |
+
+---
+
+## EZVIZ Camera Features Summary
+
+### Resolution Categories
+- **2MP/1080p Cameras**: Standard HD resolution, ideal for basic monitoring
+- **2K/3MP Cameras**: Higher resolution for clearer images and better detail
+- **4MP Cameras**: Excellent clarity for identifying faces and objects at distance
+- **5MP/3K+ Cameras**: Premium resolution for maximum detail and identification accuracy
+
+### Special Features
+- **Battery-Powered**: Wireless installation with rechargeable batteries
+- **Color Night Vision**: Clear color images even in low-light conditions
+- **Human Detection**: AI-powered alerts for human movement only
+- **Pan & Tilt**: Remote control of camera angle and position
+- **Two-Way Audio**: Communication through the camera's mic and speaker
+- **Solar Charging Option**: Extended battery life with solar panel accessory
+
+### Recommended Applications
+- **Indoor Security**: CS-C6, CS-E6, CS-H6C models
+- **Outdoor Security**: CS-H3, CS-H8C, CS-EB3 models
+- **Doorbell/Entry Monitoring**: CS-HP4, CS-HP7 models
+- **Flexible Positioning**: Battery-powered models (CS-BC1C, CS-HB8)
+
+## Installation & Service Pricing
+
+| Service | Description | Price (BHD) |
+|---------|-------------|-------------|
+| Basic Device Installation | Installation and setup of individual smart devices | 5.00 per device |
+| Switch Replacement | Replace traditional switches with smart switches | 7.00 per switch |
+| Security Camera Installation | Professional mounting and setup | 15.00 per camera |
+| Complete Home Automation | Full home setup with up to 10 devices and automation configuration | 80.00 |
+| Smart Home Consultation | Analysis of needs and customized solution planning | 25.00 (credited toward purchase) |
+| System Programming | Custom automation scene/rule creation | 15.00 for up to 5 scenes |
+| Remote Support | Troubleshooting and assistance via phone or online | 10.00 per incident |
+
+---
+
+**BY MB Consultancy**  
+Manama, Bahrain  
+Phone: +973-66300033  
+Email: info@by-mb.com  
+Website: www.by-mb.com
