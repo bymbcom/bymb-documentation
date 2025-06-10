@@ -23,27 +23,27 @@ The documentation system follows a flat organizational structure designed for op
 
 ```
 bymb-documentation/
-??? Knowledge_Center_Status_Dashboard.md
-??? AI_Roles/
-?   ??? AI_Roles_OperationsDirector_v1.0_20250524.md.md
-?   ??? AI_Roles_SupportBot_v1.0_20250524.md.md
-?   ??? AI_Roles_TechBot_v1.0_20250524.md.md
-?   ??? AI_Roles_OdooBot_v1.0_20250524.md.md
-??? Company_Information/
-?   ??? Company_Profile_English_v1.1_20250422.md
-?   ??? Company_Profile_Arabic_v1.0_20250422.md
-?   ??? Team_Members_Directory_v1.0_20250422.md
-??? Services/
-?   ??? [18 completed service documentation files]
-??? Policies/
-?   ??? [4 completed policy documents]
-??? Templates/
-?   ??? [7 standardized documentation templates]
-??? FAQ/
-?   ??? [7 comprehensive FAQ documents]
-??? Procedures/
-?   ??? [9 operational procedure documents]
-??? [Additional categories with varying completion status]
+├── Knowledge_Center_Status_Dashboard.md
+├── AI_Roles/
+│   ├── AI_Roles_OperationsDirector_v1.0_20250524.md
+│   ├── AI_Roles_SupportBot_v1.0_20250524.md
+│   ├── AI_Roles_TechBot_v1.0_20250524.md
+│   ├── AI_Roles_OdooBot_v1.0_20250524.md
+├── Company_Information/
+│   ├── Company_Profile_English_v1.1_20250422.md
+│   ├── Company_Profile_Arabic_v1.0_20250422.md
+│   ├── Team_Members_Directory_v1.0_20250422.md
+├── Services/
+│   ├── [18 completed service documentation files]
+├── Policies/
+│   ├── [4 completed policy documents]
+├── Templates/
+│   ├── [7 standardized documentation templates]
+├── FAQ/
+│   ├── [7 comprehensive FAQ documents]
+├── Procedures/
+│   ├── [9 operational procedure documents]
+├── [Additional categories with varying completion status]
 ```
 
 ## AI Integration Framework
