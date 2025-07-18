@@ -419,7 +419,7 @@ This troubleshooting guide addresses smart home automation issues that can affec
 ## Support & Contact
 For technical support or questions about Smart Home Troubleshooting:
 - **Email:** smarthome-support@by-mb.com
-- **Phone:** +973-XXXX-XXXX
+- **Phone:** +973-66300033
 - **Emergency Support**: Available for critical system issues
 - **Documentation:** [BY MB Knowledge Center](../index.md)
 
