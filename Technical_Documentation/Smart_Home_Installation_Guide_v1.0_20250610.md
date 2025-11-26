@@ -336,7 +336,7 @@ This installation guide covers the complete smart home system deployment process
 ## Support & Contact
 For technical support or questions about Smart Home Installation:
 - **Email:** smarthome-support@by-mb.com
-- **Phone:** +973-66300033
+- **Phone:** +973-XXXX-XXXX
 - **Emergency Support**: Available for critical system issues
 - **Documentation:** [BY MB Knowledge Center](../index.md)
 
