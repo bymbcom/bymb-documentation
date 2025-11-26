@@ -17,8 +17,16 @@ This section contains comprehensive role definitions for all AI agents in the BY
 **Primary Function:** Technical support, system troubleshooting, and infrastructure guidance.
 
 ### [Odoo Bot](AI_Roles_OdooBot_v1.0_20250524.md)
-**Agent ID:** `ODOO-001`  
+**Agent ID:** `ODOO-001`
 **Primary Function:** ERP integration, business process automation, and data management.
+
+### [Claude](AI_Roles_Claude_v1.0_20251126.md)
+**Agent ID:** `CLAUDE-001`
+**Primary Function:** Advanced AI assistant for strategic guidance, complex problem-solving, documentation, and multi-domain expertise.
+
+### [Quality Assurance Agent](AI_Roles_QualityAssuranceAgent_v1.0_20250610.md)
+**Agent ID:** `QA-001`
+**Primary Function:** Documentation quality control, content classification, and security validation.
 
 ## ? Multi-Agent Coordination
 
@@ -30,8 +38,8 @@ The AI agents work together using defined communication protocols:
 
 ## ? Implementation Status
 
-? **Phase 1 Complete:** All four AI agent role definitions finalized  
-? **Phase 2 In Progress:** Technical implementation and system integration  
+? **Phase 1 Complete:** All six AI agent role definitions finalized (Operations Director, Support Bot, Tech Bot, Odoo Bot, Claude, QA Agent)
+? **Phase 2 In Progress:** Technical implementation and system integration
 ? **Next Milestone:** Azure AI environment setup and API integrations
 
 ## ? Related Documentation
@@ -43,5 +51,5 @@ The AI agents work together using defined communication protocols:
 
 ---
 
-**Last Updated:** May 24, 2025  
+**Last Updated:** November 26, 2025
 **Review Schedule:** Quarterly assessment of role effectiveness
