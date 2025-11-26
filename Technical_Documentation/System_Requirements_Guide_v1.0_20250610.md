@@ -161,7 +161,7 @@ This requirements guide provides detailed specifications for planning and implem
 ## Support & Contact
 For technical support or questions about System Requirements:
 - **Email:** systems-support@by-mb.com
-- **Phone:** +973-66300033
+- **Phone:** +973-XXXX-XXXX
 - **Technical Consulting**: Available for complex requirements analysis
 - **Documentation:** [BY MB Knowledge Center](../index.md)
 

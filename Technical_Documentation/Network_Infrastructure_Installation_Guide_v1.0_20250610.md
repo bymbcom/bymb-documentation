@@ -177,7 +177,7 @@ This installation guide covers the complete network infrastructure setup process
 ## Support & Contact
 For technical support or questions about Network Infrastructure Installation:
 - **Email:** network-support@by-mb.com
-- **Phone:** +973-66300033
+- **Phone:** +973-XXXX-XXXX
 - **Emergency Support**: Available for critical network issues
 - **Documentation:** [BY MB Knowledge Center](../index.md)
 

@@ -382,8 +382,8 @@ This troubleshooting guide addresses network infrastructure issues that can affe
 ## Support & Contact
 For technical support or questions about Network Troubleshooting:
 - **Email:** network-support@by-mb.com
-- **Phone:** +973-66300033
-- **Emergency Hotline:** +973-66300033 (24/7)
+- **Phone:** +973-XXXX-XXXX
+- **Emergency Hotline:** +973-XXXX-XXXX (24/7)
 - **Documentation:** [BY MB Knowledge Center](../index.md)
 
 ---
